@@ -4,8 +4,13 @@ GAN implementation for CIFAR10 image dataset
 #CIFAR-10
 The cifar 10 images containes like these.
 
+![Generated Image](cifar.png)
+
+
 #Generated Images from GAN.
 The generated images from GAN are like these.
+
+![Generated Image](image.png)
 
 #Training.
 1) Used BCE for both generator and Discriminator.
